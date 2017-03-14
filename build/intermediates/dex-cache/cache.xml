@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/hishambakr/.android/build-cache/dced103640cbb8513b5698f870ca2b97f4a36b5c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="21d5aff81a43d20a14f82d653366c9b7a215071c">
+        <dex dex="/Users/hishambakr/0work/cloudtech/BffDemo2/app/build/intermediates/pre-dexed/debug/classes_2e321cb7059cc754c2d4971158b2cf72384f076a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hishambakr/.android/build-cache/745150b3fc30af7a3bd7dabdff54ddd67f3c3f38/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/hishambakr/0work/cloudtech/BffDemo2/app/build/intermediates/pre-dexed/debug/classes_d75ccc0010ca1de5a0f0969e4c9a9227de3eed85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hishambakr/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.0/49eb3ad545e7701234e4dd83db8dc1344b577f23/converter-gson-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="49eb3ad545e7701234e4dd83db8dc1344b577f23">
+        <dex dex="/Users/hishambakr/0work/cloudtech/BffDemo2/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.0_00ad8bac8aa3fdfd1b217a3d7c2d0f4fd3539e09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hishambakr/.android/build-cache/2a21212c5b220a6b8c2fd6074e5a08b4c75900f0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/hishambakr/0work/cloudtech/BffDemo2/app/build/intermediates/pre-dexed/debug/classes_7550c61ad91e218d7f9c8dd7b25f01a1a8130dcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hishambakr/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.4.2/d99260c62d97beae99ed1f779a35a9bf48c094a6/logging-interceptor-3.4.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d99260c62d97beae99ed1f779a35a9bf48c094a6">
+        <dex dex="/Users/hishambakr/0work/cloudtech/BffDemo2/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.4.2_f65aecc2e1c6bd605a66f3eec6f8c4d07d6f01a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hishambakr/.android/build-cache/58449355f215d434c74b914de310208156954c38/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/hishambakr/0work/cloudtech/BffDemo2/app/build/intermediates/pre-dexed/debug/classes_63118767932e9390c85eb672afa564282aa9157b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hishambakr/.android/build-cache/4e346fefab6265a79dd9828492bb180bd5838e56/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/hishambakr/0work/cloudtech/BffDemo2/app/build/intermediates/pre-dexed/debug/classes_928b1e208169a18d84ca3bd06c212c73a0c532b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hishambakr/.android/build-cache/e935dfccb09f4e9de80503db2b0f335d620c65cf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9f50f918792a48155188b8f54fb9d524b117201">
+        <dex dex="/Users/hishambakr/0work/cloudtech/BffDemo2/app/build/intermediates/pre-dexed/debug/classes_6c465d8f3866567841c3cfff1594aa4011b8c6cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hishambakr/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/hishambakr/0work/cloudtech/BffDemo2/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_2ddef4351035f69bacece37c177759995156df88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hishambakr/.android/build-cache/1f76ba653ba082107670209301b86b2ca73ec517/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/hishambakr/0work/cloudtech/BffDemo2/app/build/intermediates/pre-dexed/debug/classes_d7f6ca8d6615f1dbf2d9b6976610694ee75b8bea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hishambakr/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/hishambakr/0work/cloudtech/BffDemo2/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_18cf80d23f6aaa5ff5f27a0bb4184ad35ddf0919.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hishambakr/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/hishambakr/0work/cloudtech/BffDemo2/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_28a6f3c7de6b7faa0cdf85f6c47213e826b0a1fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hishambakr/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/hishambakr/0work/cloudtech/BffDemo2/app/build/intermediates/pre-dexed/debug/gson-2.6.1_1e3986d8cdf1a2c0cb9f096f01ec32d7e977dd37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hishambakr/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.2/ccde00f7ccc77af5a6d5752e2cb21f6d8998289f/okhttp-3.4.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ccde00f7ccc77af5a6d5752e2cb21f6d8998289f">
+        <dex dex="/Users/hishambakr/0work/cloudtech/BffDemo2/app/build/intermediates/pre-dexed/debug/okhttp-3.4.2_2c86962096ea0496634278c33cbeb891ed459ac7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hishambakr/.android/build-cache/1a762ad67a37e7660aec7de8a9357e0ae37ce453/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/hishambakr/0work/cloudtech/BffDemo2/app/build/intermediates/pre-dexed/debug/classes_3b5f3c216ee143e5ad746b9c14cfa77cbbcacb03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hishambakr/.android/build-cache/3b97882d43de190e80ef18e87b780dbd8738ef8b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/hishambakr/0work/cloudtech/BffDemo2/app/build/intermediates/pre-dexed/debug/classes_b00a3140ece711a1bbdf1106f23e353a9221bec6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hishambakr/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/hishambakr/0work/cloudtech/BffDemo2/app/build/intermediates/pre-dexed/debug/reactive-streams-1.0.0_7c930f15ab346427ceae7ca027e9067e65dfd320.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hishambakr/.gradle/caches/modules-2/files-2.1/com.jakewharton.retrofit/retrofit2-rxjava2-adapter/1.0.0/e117362a2103f8ec01091ebd2f40aca4e1ada599/retrofit2-rxjava2-adapter-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e117362a2103f8ec01091ebd2f40aca4e1ada599">
+        <dex dex="/Users/hishambakr/0work/cloudtech/BffDemo2/app/build/intermediates/pre-dexed/debug/retrofit2-rxjava2-adapter-1.0.0_8272e42f2d599d26caf8b459e518927bf7eed3f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hishambakr/.android/build-cache/a221a5d04743798b5e88e332b982dd971cc4946e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/hishambakr/0work/cloudtech/BffDemo2/app/build/intermediates/pre-dexed/debug/classes_0d5978bd519e7341c7045acbe09aabd830da6ef4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hishambakr/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.0/5151c737c01616c372c3d00ab145868ede10e826/rxjava-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5151c737c01616c372c3d00ab145868ede10e826">
+        <dex dex="/Users/hishambakr/0work/cloudtech/BffDemo2/app/build/intermediates/pre-dexed/debug/rxjava-2.0.0_2e06b308f539c1451ceda6f17ef335d6306a3a4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hishambakr/.android/build-cache/eea5887f8ad75d3f28ae144b383366b732402772/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/hishambakr/0work/cloudtech/BffDemo2/app/build/intermediates/pre-dexed/debug/classes_ffda1e7b044759d037a05325d27f81a50bc8c1c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hishambakr/.android/build-cache/e685b40b10fa604a7125b6ea788ee0a1e708168f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/hishambakr/0work/cloudtech/BffDemo2/app/build/intermediates/pre-dexed/debug/classes_7e8282645b9578d7477f19cfec769aa9f7b2b8ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hishambakr/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/hishambakr/0work/cloudtech/BffDemo2/app/build/intermediates/pre-dexed/debug/okio-1.9.0_4ab22afe31cb944d0489ce78bb19bae3a60c58de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hishambakr/.android/build-cache/0a0da6d5a028285bd3c0b689a443f3f3dda962aa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/hishambakr/0work/cloudtech/BffDemo2/app/build/intermediates/pre-dexed/debug/classes_dc06ba372d3c1b76b71d0d300d327a040c319dc3.jar" />
+    </item>
+
+</items>
